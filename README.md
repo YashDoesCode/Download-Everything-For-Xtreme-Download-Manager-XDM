@@ -1,4 +1,9 @@
 # Download-Everything-For-Xtreme-Download-Manager-XDM
+Reason why i made this ?
+By default, XDM comes with a limited set of recognized file extensions, which restricts its downloading capabilities. I added almost every commonly and rarely used file extensions to the list of XDM Browser Monitoring - which means now you are not limited to default files listed to download directly in XDM..but a much much larger database of file extensions that will surely full-fill the need of daily & Advanced users !
+Here are the Settings & Configurations for XDM :
+Enjoy !
+---------------------------------------------------------------------
 # Browser Monitoring
 
 ```powershell
