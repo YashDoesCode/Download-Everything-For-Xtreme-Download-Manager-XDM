@@ -21,18 +21,6 @@ Get ready to supercharge your downloading experience with the best settings conf
 MP4,M3U8,F4M,WEBM,OGG,MP3,AAC,FLV,MKV,DIVX,MOV,MPG,MPEG,OPUS,MPD
 ```
 
-# Temporary Files
-
-```powershell
-C:\Users\Asus Vivobook 14\AppData\Local\Temp
-```
-
-# Default Download Folder
-
-```powershell
-C:\Users\Asus Vivobook 14\Dock\Downloads\XDM
-```
-
 # Download Categories
 
 ## Document Files
@@ -42,7 +30,7 @@ C:\Users\Asus Vivobook 14\Dock\Downloads\XDM
 ```
 
 ```powershell
-C:\Users\Asus Vivobook 14\Dock\Downloads\XDM\Documents 
+C:\Users\Your PC Name\Dock\Downloads\XDM\Documents 
 ```
 
 ## Audio Files
@@ -52,7 +40,7 @@ C:\Users\Asus Vivobook 14\Dock\Downloads\XDM\Documents
 ```
 
 ```powershell
-C:\Users\Asus Vivobook 14\Dock\Downloads\XDM\Audio
+C:\Users\Your PC Name\Dock\Downloads\XDM\Audio
 ```
 
 ## Video Files
@@ -62,7 +50,7 @@ C:\Users\Asus Vivobook 14\Dock\Downloads\XDM\Audio
 ```
 
 ```powershell
-C:\Users\Asus Vivobook 14\Dock\Downloads\XDM\Videos
+C:\Users\Your PC Name\Dock\Downloads\XDM\Videos
 ```
 
 ## ZIP & Other Compressed Files
@@ -72,7 +60,7 @@ C:\Users\Asus Vivobook 14\Dock\Downloads\XDM\Videos
 ```
 
 ```powershell
-C:\Users\Asus Vivobook 14\Dock\Downloads\XDM\Compressed\Compressed 
+C:\Users\Your PC Name\Dock\Downloads\XDM\Compressed\Compressed 
 ```
 
 ## Executable Files & Installers
@@ -82,5 +70,5 @@ C:\Users\Asus Vivobook 14\Dock\Downloads\XDM\Compressed\Compressed
 ```
 
 ```powershell
-C:\Users\Asus Vivobook 14\Dock\Downloads\XDM\Executable
+C:\Users\Your PC Name\Dock\Downloads\XDM\Executable
 ```
