@@ -28,47 +28,24 @@ MP4,M3U8,F4M,WEBM,OGG,MP3,AAC,FLV,MKV,DIVX,MOV,MPG,MPEG,OPUS,MPD
 ```powershell
 .DOCX,.TXT,.CSV,.XLSX,.ODS,.PPTX,.PNG,.JPG,.GIF,.BMP,.PDF,.HTML,.CSS,.JS,.PY,.RB,.JAVA,.C,.CPP,.H,.SH,.ISO,.OBJ,.ZIP,.RAR
 ```
-
-```powershell
-C:\Users\Your PC Name\Dock\Downloads\XDM\Documents 
-```
-
 ## Audio Files
 
 ```powershell
 .MP3,.WAV,.AAC,.FLAC,.OGG,.M4A,.WMA,.AIFF,.MID,.MIDI,.MP,.OGA,.OPUS,.MPC,.HTK,.RF64,.SD2,.SD3,.SF,.SND,.VOX,.VOC,.PCM,.AVR
 ```
-
-```powershell
-C:\Users\Your PC Name\Dock\Downloads\XDM\Audio
-```
-
 ## Video Files
 
 ```powershell
 .MP4,.MKV,.AVI,.MOV,.WMV,.FLV,.SWF,.3GP,.OGV,.WEBM,.MPEG,.MPEG-1,.MPEG-4,.3GPP,.3GPP2,.R3D,.DV,.HEVC,.H264
 ```
-
-```powershell
-C:\Users\Your PC Name\Dock\Downloads\XDM\Videos
-```
-
 ## ZIP & Other Compressed Files
 
 ```powershell
 .ZIP,.7Z,.RAR,.TAR,.GZ,.BZ2,.SITX,.ACE,.ISO,.TOAST,.VCD,.BIN,.CUE,.DAA,.MDF,.MDS,.NRG,.PDI,.CDI,.B5I,.UIF,.ZIPX,.TAR.GZ
 ```
 
-```powershell
-C:\Users\Your PC Name\Dock\Downloads\XDM\Compressed\Compressed 
-```
-
 ## Executable Files & Installers
 
 ```powershell
 .EXE,.APK,.APPX,.MSI,.MSIX,.DMG,.DEB,.RPM,.PKG,.PUP,.SWF,.JAR,.IPA,.APP,.XAPK,.MSIXBUNDLE
-```
-
-```powershell
-C:\Users\Your PC Name\Dock\Downloads\XDM\Executable
 ```
