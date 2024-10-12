@@ -1,4 +1,4 @@
-# XDM Configuration - Download anything on the web!
+# XDM Configuration - Download the entire web!
 
 Welcome to the ultimate enhancement for your Xtreme Download Manager (XDM)! This repository is dedicated to providing a comprehensive list of file extensions, enabling XDM to download a vast array of files from the internet that it wouldn't normally recognize.
 
