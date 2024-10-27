@@ -1,6 +1,4 @@
 # XDM Configuration - Download the entire web!
-![image](https://github.com/user-attachments/assets/6ab8a8b6-a3f3-4755-a6c5-8b235504bd8f)
-
 Welcome to the ultimate enhancement for your Xtreme Download Manager (XDM)! This repository is dedicated to providing a comprehensive list of file extensions, enabling XDM to download a vast array of files from the internet that it wouldn't normally recognize.
 
 By default, XDM comes with a limited set of recognized file extensions, which restricts its downloading capabilities. Recognizing this limitation, I've curated an extensive list that ranges from the least known to the most popular file extensions available on the web. With this enhanced configuration, XDM can now seamlessly handle almost any download task you throw at it.
