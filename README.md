@@ -50,3 +50,5 @@ MP4,M3U8,F4M,WEBM,OGG,MP3,AAC,FLV,MKV,DIVX,MOV,MPG,MPEG,OPUS,MPD
 ```powershell
 .EXE,.APK,.APPX,.MSI,.MSIX,.DMG,.DEB,.RPM,.PKG,.PUP,.SWF,.JAR,.IPA,.APP,.XAPK,.MSIXBUNDLE
 ```
+Configuration Module by Yash Srivastava
+![14724c7b-e734-4344-ae11-1c41b103004f](https://github.com/user-attachments/assets/1c36e822-e89a-4997-87ea-ebf5273cc43c)
